@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- ⚡ Fun fact **I play [osu!](https://osu.ppy.sh/users/18018426)**
+- ⚡ Fun fact **I play [osu!](https://osu.ppy.sh/users/8283257)**
 
 <p align="left">
 <a href="https://twitter.com/monochromedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monochromedev" height="30" width="40" /></a>
