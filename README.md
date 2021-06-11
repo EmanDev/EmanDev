@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/monochrome_dev" target="blank"><img src="https://img.shields.io/twitter/follow/monochrome_dev?logo=twitter&style=for-the-badge" alt="monochrome_dev" /></a> </p>
 
-- 🔭 I’m currently working on [emandev-rewrite](https://github.com/EmanDev/emandev-rewrite) and [winrar-keygen-gui](https://github.com/EmanDev/winrar-keygen-gui).
+- 🔭 I’m currently working on [emandev-rewrite](https://github.com/EmanDev/emandev-rewrite) and [winrar-keygen-gui](https://github.com/EmanDev/winrar-keygen-gui)
 
-- 🌱 I’m currently learning **Python and halfmoon-css framework**.
+- 🌱 I’m currently learning **Python and halfmoon-css framework**
 
-- 🤝 I’m looking for help with **'stuff' on my current project**.
+- 🤝 I’m looking for help with **'stuff' on my current project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EmanDev?tab=repositories](https://github.com/EmanDev?tab=repositories).
+- 👨‍💻 All of my projects are available at [https://github.com/EmanDev?tab=repositories](https://github.com/EmanDev?tab=repositories)
 
-- 📝 I regularly post some of my stuff at [emandev.github.io](emandev.github.io).
+- 📝 I regularly post some of my stuff at [emandev.github.io](emandev.github.io)
 
 - 💬 Ask me about **HTML and CSS 😁**
 
