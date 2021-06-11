@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/monochromedev" target="blank"><img src="https://img.shields.io/twitter/follow/monochromedev?logo=twitter&style=for-the-badge" alt="monochromedev" /></a> </p>
 
-- 🔭 I’m currently working on [emandev-rewrite](https://github.com/EmanDev/emandev-rewrite)
+- 🔭 I’m currently working on [emandev-rewrite](https://github.com/EmanDev/emandev-rewrite) and [winrar-keygen-gui](https://github.com/EmanDev/winrar-keygen-gui)
 
 - 🌱 I’m currently learning **Python.**
 
