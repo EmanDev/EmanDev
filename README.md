@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML and CSS 😁**
 
-- 📫 How to reach me **email: game.and.windows.tutorial1@gmail.com**
+- 📫 How to reach me **email: emzzdroidlollipop@gmail.com**
 
 - 📄 Know about my profile [https://github.com/EmanDev](https://github.com/EmanDev)
 
