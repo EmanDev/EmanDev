@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eman Marcaida</h1>
-<h3 align="center">A hard-working person from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Engr. Eman Marcaida</h1>
+<h3 align="center">An engineer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emandev&label=Profile%20views&color=0e75b6&style=flat" alt="emandev" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML and CSS 😁**
 
-- 📫 How to reach me **email: emzzdroidlollipop@gmail.com**
+- 📫 How to reach me **email: eemarcaida0570@gmail.com**
 
 - 📄 Know about my profile [https://github.com/EmanDev](https://github.com/EmanDev)
 
