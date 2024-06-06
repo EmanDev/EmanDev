@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engr. Eman Marcaida</h1>
 <h3 align="center">A Registered Electrical Engineer and Registered Master Electrician from the Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emandev&label=Profile%20views&color=0e75b6&style=flat" alt="emandev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emandev&label=Profile%20views&color=0e75b6&style=flat" alt="emandev" /> </p>
 
 - 🔭 I’m currently working on maintaining my [E-Portfolio](https://github.com/EmanDev/portfolio)
 
